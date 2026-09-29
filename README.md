@@ -11,7 +11,7 @@ The reported analyses include nine individual artificial sweeteners:
 - **Synthetic sweeteners:** acesulfame K, aspartame, saccharin, and sucralose
 - **Sugar alcohols:** erythritol, maltitol, mannitol, sorbitol, and xylitol
 
-The corresponding prefixes used in the code are `acesk_`, `aspart_`, `sach_`, `sucral_`, `eryth_`, `maltitol_`, `mani_`, `sorb_`, and `xyli_`. Some preprocessing and modeling sections also retain a `tag_` variable from the source data, but this variable is not included among the nine individual sweeteners displayed in the final downstream figures.
+The corresponding prefixes used in the code are `acesk_`, `aspart_`, `sach_`, `sucral_`, `eryth_`, `maltitol_`, `mani_`, `sorb_`, and `xyli_`. Some preprocessing and modeling sections also retain a `tag_` variable from the source data, but this variable is not included among the nine individual sweeteners displayed in the final downstream figures. This is because tagatose is not a type of sugar alcohol but measured in the diet records
 
 ## Code files
 
