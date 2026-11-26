@@ -1,6 +1,6 @@
 # Artificial sweetener intake, human gut microbiome, plasma metabolome, and cardiometabolic disease risk in free-living individuals
 
-This repository contains the analysis code accompanying the manuscript **“Artificial sweetener intake, human gut microbiome, plasma metabolome, and cardiometabolic disease risk in free-living individuals,”** currently under review at *Nature Metabolism*.
+This repository contains the analysis code accompanying the manuscript **“Artificial sweetener intake, human gut microbiome, plasma metabolome, and cardiometabolic disease risk in free-living individuals,”**.
 
 The analyses integrate repeated dietary assessments, gut microbiome profiles, plasma metabolomics, participant characteristics, and prospective cardiometabolic outcomes. They include external replication in the MicroCardio Consortium, sensitivity analyses using centered log-ratio (CLR) transformation, comparisons of zero-replacement fractions, and assessments of statistical stability in feature selection and sparse canonical correlation analysis (sCCA).
 
